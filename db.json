@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "judul",
+      "content": "Ini Content"
+    },
+    {
+      "id": "2",
+      "title": "judul 2",
+      "content": "Ini Content 2"
+    },
+    {
+      "id": "3",
+      "title": "judul 3",
+      "content": "Ini Content 3"
+    },
+    {
+      "id": "4",
+      "title": "judul 4",
+      "content": "Ini Content 4"
+    },
+    {
+      "id": "5",
+      "title": "yuda",
+      "content": "ini conten "
+    },
+    {
+      "id": "6",
+      "title": "yudah",
+      "content": "daoduaiwjaw"
+    },
+    {
+      "id": "7",
+      "title": "bab 2",
+      "content": "isi dari bab 2\n"
+    },
+    {
+      "id": "8",
+      "title": "bab 2",
+      "content": "isi dari bab 3\n"
+    },
+    {
+      "id": "9",
+      "title": "yd",
+      "content": "dankwd\n"
+    },
+    {
+      "id": "10",
+      "title": "baru ",
+      "content": "ini content yang baru"
+    }
+  ]
+}
